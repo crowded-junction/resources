@@ -1,0 +1,56 @@
+I'll introduce our app, the Crowded.
+So What is it?
+It gives information about how crowded a tourist spot almost in real time.
+
+Then why are we make this app?
+Because in thesedays, a lot of information is in the internet.
+But it's hard to know how crowded in some place in real time when I wanted.
+
+Some people want to go crowded place, but others don't want.
+In my case, I prefer place that are not crowded.
+So I need this app. The Crowded.
+The travelers who want more comfortable and peaceful place are our target.
+
+Then how to use?
+Step 1, choose the location.
+if not, you can also use GPS.
+
+Step 2, check the congestion.
+Like Green, Orange and Red
+it will be expressed in an easy-to-understandable like traffic light.
+
+Step 3, check the hot deal, only in Crowded.
+This is a special deal offered by business owners.
+That would be a really cheap price.
+The Policy can be set by the operating side and can be changed,
+but we expect a discount rate of more than 50%.
+
+We offer a benefit for both traveler and business.
+Traveler can get a information about how crowded in some place
+and can get really cheap product.
+Business can be used for a long time by paying a one-time installation cost.
+It will make increasing incomes and give them ability to create demographics.
+Finally all be a winner.
+
+In this hackathon, there is no camera installed.
+So I need a lot of picture about humans.
+To take photograph, I went around the various teams in the hackathon
+and asked for permission before taking pictures.
+
+Finally this is a breif flow chart.
+Setting up the environment using Azure was very challenging.
+We talked like shit.
+The two days of work broke my mentality.
+However, from the second day onwards, after identifying products
+such as Power app, everything started to work out easily.
+The build went very quickly, and the team that was hostile to Azure turned into a favourite.
+
+We used power app which can make app with less code but more productive.
+And we used the Object Detection service, an AI solution that is easily accessible in Azure.
+It's amazing that I can create a fully functional AI service with only 43 lines of code.
+The backend could be deployed in a easy way with very little code.
+We only had to think about the logical code. Super!!
+
+The result is easy to accessible, easy to use.
+It could give benefit to all.
+Thank you for listening.
